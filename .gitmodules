@@ -1,3 +1,6 @@
 [submodule "TestCommon"]
 	path = TestCommon
 	url = https://github.com/Dimitri-Steffanoni/TestCommon.git
+[submodule "a"]
+	path = a
+	url = https://github.com/Dimitri-Steffanoni/TestCommon.git
