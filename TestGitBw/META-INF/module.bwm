@@ -10,6 +10,6 @@
   <sca:property xmi:id="_gCI3oGRmEeuceLyEpldGMA" name="BW.MODULE.VERSION" type="XMLSchema:string" scalable="true"/>
   <sca:property xmi:id="_gCMiAGRmEeuceLyEpldGMA" name="BW.MODULE.NAME" type="XMLSchema:string" scalable="true"/>
   <sca:component xmi:id="_flyS0GRmEeuceLyEpldGMA" name="ComponentProcess" compositeext:version="1.0.0.qualifier">
-    <scaext:implementation xsi:type="BW:BWComponentImplementation" xmi:id="_flzg8GRmEeuceLyEpldGMA" processName="testgitbw.Process"/>
+    <scaext:implementation xsi:type="BW:BWComponentImplementation" xmi:id="_flzg8GRmEeuceLyEpldGMA" processName="testgitbw.ProcessBw"/>
   </sca:component>
 </sca:composite>
